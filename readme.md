@@ -1,7 +1,7 @@
 <h1 align="center">Docker</h1>
 
 ## :memo: Descrição
-Projeto criado para a estudos iniciais em docker.
+Projeto criado para a catalogar estudos iniciais em docker.
 
 ## :wrench: Tecnologias utilizadas
 * Javascript
