@@ -1,16 +1,15 @@
 <h1 align="center">Docker</h1>
 
-## :memo: Descrição
+## Descrição
 Projeto criado para a catalogar estudos iniciais em docker.
 
-## :wrench: Tecnologias utilizadas
+## Tecnologias utilizadas
 * Javascript
 * Node.js
 * Docker
 * Git
 
-
-## :handshake: Colaboradores
+## Colaboradores
 <table>
   <tr>
     <td align="center">
